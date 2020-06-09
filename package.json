@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-border-sides-color",
+  "version": "0.1.0",
+  "description": "Tailwind individual border sides color.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fontech/tailwindcss-border-sides-color.git"
+  },
+  "keywords": [
+    "tailwind",
+    "plugin"
+  ],
+  "author": "Sasaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fontech/tailwindcss-border-sides-color/issues"
+  },
+  "homepage": "https://github.com/Fontech/tailwindcss-border-sides-color#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
